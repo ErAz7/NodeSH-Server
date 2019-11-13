@@ -26,7 +26,8 @@ wroks on __Windows__, __macOS__, __Linux__
 
 # Installation
 To install this package, simply run :
-`npm i nodesh-server`
+
+`npm install nodesh-server`
 
 To run the server, run `npm start`
 
