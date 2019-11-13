@@ -34,7 +34,7 @@ To run the server, run `npm start`
 Do not forget to set the host __IP address__ or __domain name__ in configuration file ('./config/index.js'), __Consider__ that username and password in this file, should be the same on server and client machines in order to connect.
 
 # API
-You can use [NodeSH-Client](https://github.com/ErAz7/NodeSH-Client) to connect and communicate with NodeSH-Server but if you prefer to write a client yourself, here is the API :
+You can use [NodeSH-Client](https://www.npmjs.com/package/nodesh-client) to connect and communicate with NodeSH-Server but if you prefer to write a client yourself, here is the API :
 ### Key Exchange
 Since client is the connection starter, first you should calculate  __Generator__, __Prime__ and __Client Public Key__ and post them to __Key Exchange Port__ of server setted in configuration file, field names should be as follows :
 ```
