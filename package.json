@@ -1,6 +1,6 @@
 {
   "name": "nodesh-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.JS secure shell access server (Diffie-Hellman key exchange, AES encryption)",
   "main": "index.js",
   "scripts": {
