@@ -1,0 +1,35 @@
+{
+  "name": "nodesh-server",
+  "version": "1.0.0",
+  "description": "Node.JS secure shell access server (Diffie-Hellman key exchange, AES encryption)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "colors": "^1.3.3",
+    "multiparty": "^4.2.1",
+    "screenshot-desktop": "^1.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErAz7/NodeSH-Server.git"
+  },
+  "keywords": [
+    "nodesh-server",
+    "node shell",
+    "SSH",
+    "Shell Access",
+    "Windows",
+    "Secure Access",
+    "Secure CMD",
+    "CMD Shell",
+    "node SSH"
+  ],
+  "author": "ErAz7",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ErAz7/NodeSH-Server/issues"
+  },
+  "homepage": "https://github.com/ErAz7/NodeSH-Server#readme"
+}
