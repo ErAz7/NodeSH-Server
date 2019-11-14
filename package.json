@@ -1,6 +1,6 @@
 {
   "name": "nodesh-server",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "description": "Node.JS secure shell access server (Diffie-Hellman key exchange, AES encryption)",
   "main": "index.js",
   "scripts": {
@@ -31,5 +31,6 @@
   "bugs": {
     "url": "https://github.com/ErAz7/NodeSH-Server/issues"
   },
-  "homepage": "https://github.com/ErAz7/NodeSH-Server#readme"
+  "homepage": "https://github.com/ErAz7/NodeSH-Server#readme",
+  "devDependencies": {}
 }

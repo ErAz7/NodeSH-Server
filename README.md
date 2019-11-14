@@ -1,4 +1,4 @@
-# NodeSH-Client
+# NodeSH-Server
 
 A Node.js Secure Shell Access server that provides :
 - __Secure Shell Access__ 

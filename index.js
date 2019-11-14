@@ -1,6 +1,3 @@
-console.clear();
-
-
 const http = require('http');
 const fs = require('fs');
 const stream = require('stream');
@@ -13,6 +10,8 @@ const screenshot = require('screenshot-desktop');
 const secureKeyCreator = require('./encryption/createKey');
 const encryption = require('./encryption/encryption');
 const CONFIG = require('./config');
+
+console.clear();
 
 let authenticated=false;
 let sessionCode=false;
